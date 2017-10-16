@@ -1,0 +1,4 @@
+antlr4_test/bin/*
+antlr4_test/obj/*
+packages/*
+.vs/*
